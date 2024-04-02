@@ -1,0 +1,230 @@
+body{
+    background: rgb(44,88,52);
+background: radial-gradient(circle, rgba(44,88,52,1) 0%, rgba(51,82,66,1) 100%);
+}
+
+.wrapper{
+    
+    }
+.image{
+    margin-left: 5%;
+    margin-top: 2%;
+    border-radius: 100px;
+    width: 200;
+    height: 200;
+    border: 1px solid rgb(119, 119, 225);
+}
+.wrapper1{
+    border-radius: 10px;
+    width: 330px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgb(64,181,218);
+    background: radial-gradient(circle, rgba(64,181,218,1) 0%, rgba(39,159,185,1) 100%);
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    margin-left: 22%;
+    margin-top: -12.5%;
+
+ 
+    }
+p.per{
+    margin-left: 22.5%;
+    margin-top: 17%;
+}
+.per1{
+    margin-top: -20%;
+}
+.name{
+    margin-left: 22.5%;
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    margin-top: 2%;
+   
+}
+.fname{
+    margin-left: 28%;
+    margin-top: -3.5%;
+    font-size: 20px;
+     color: antiquewhite;
+}
+.age{
+    font-size: 25px;
+    margin-left: 22.5%;
+    color: aliceblue;
+    font-weight: 800;
+}
+.agenum{
+    margin-left: 27%;
+    margin-top: -3.5%;
+    font-size: 20px;
+    color: aliceblue;
+    
+}
+.phone{
+    font-size: 25px;
+    color: white;
+    margin-left: 22.5%;
+    font-weight: 800;
+
+}
+.phonenum{
+    margin-left: 29%;
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: -3.5%;
+    
+}
+.email{
+  margin-left: 22.5%;
+  font-weight: 800;
+  color: aliceblue;
+  font-size: 25px;
+}
+.email1{
+    margin-left: 29%;
+    margin-top: -3.5%;
+    font-size: 20px;
+    color: aliceblue;
+}
+.github{
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: 800;
+    margin-left: 22.5%;
+}
+.github1{
+    font-size: 20px;
+    color: aliceblue;
+    margin-left: 30%;
+    margin-top: -3.7%;
+}
+.border1{
+    border-radius: 10px;
+    width: 330px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgb(64,181,218);
+    background: radial-gradient(circle, rgba(64,181,218,1) 0%, rgba(39,159,185,1) 100%);
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    margin-left: 60%;
+    margin-top: -24.5%;
+ 
+}
+.wrapper2{
+    margin-left: 61%;
+}
+.edu{
+    font-weight: 800;
+    margin-top: -11.5%;
+}
+p.bache{
+    margin-top: 5%;
+    font-size: 25px;
+    color: aliceblue;
+}
+p.uni{
+    font-size: 25px;
+    color: aliceblue;
+}
+.border2{
+    border-radius: 10px;
+    width: 330px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgb(64,181,218);
+    background: radial-gradient(circle, rgba(64,181,218,1) 0%, rgba(39,159,185,1) 100%);
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    margin-left: 21.5%;
+    margin-top: 10%;
+}
+.wrapper3{
+    margin-left: 23%;
+    margin-top: -4.5%;
+   
+}
+.wire{
+    margin-top: 5%;
+    font-size: 25px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.trou{
+    font-size: 25px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.border3{
+    border-radius: 10px;
+    width: 330px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgb(64,181,218);
+    background: radial-gradient(circle, rgba(64,181,218,1) 0%, rgba(39,159,185,1) 100%);
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    margin-left: 60%;
+    margin-top: -10.5%;
+}
+.wrapper4{
+    margin-left: 61%;
+    margin-top: -4.5%;
+}
+p.pro1{
+    font-size: 25px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.r{
+    color: rgb(255, 109, 12);
+}
+p.role{
+    margin-left: 16%;
+    margin-top: -9%;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.border4{
+    border-radius: 10px;
+    width: 330px;
+    height: 50px;
+    border: 1px solid black;
+    background: rgb(64,181,218);
+    background: radial-gradient(circle, rgba(64,181,218,1) 0%, rgba(39,159,185,1) 100%);
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    margin-left: 21%;
+    margin-top: 10%;
+}
+.wrapper5{
+    margin-left: 22%;
+    margin-top: -4.5%;
+}
+.fb{
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: 5%;
+}
+.git1{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.one{
+    color: rgb(20, 238, 162);
+}
+.two{
+    color: rgb(20, 238, 162);
+}
+.text{
+    margin-left: 20.5%;
+    color: chocolate;
+}
+.white{
+    color: aliceblue;
+    font-size: 18px;
+}
